@@ -1,4 +1,2 @@
 def f():
     pass
-
-f()
